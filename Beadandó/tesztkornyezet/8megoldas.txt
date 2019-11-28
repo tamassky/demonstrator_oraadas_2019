@@ -1,0 +1,77 @@
+A honap soran 1767 birsag kerult kiszabasra, osszesen 175570000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+2.83% - ep39
+2.83% - ep40
+2.83% - ep42
+2.83% - ep50
+2.72% - ep12
+2.72% - ep17
+2.72% - ep27
+2.66% - ep4
+2.60% - ep36
+2.55% - ep24
+2.49% - ep10
+2.49% - ep15
+2.38% - ep2
+2.38% - ep23
+2.38% - ep7
+2.32% - ep38
+2.26% - ep9
+2.21% - ep21
+2.15% - ep43
+2.15% - ep45
+2.15% - ep6
+2.09% - ep20
+2.09% - ep31
+2.09% - ep49
+2.04% - ep26
+2.04% - ep34
+1.98% - ep32
+1.98% - ep48
+1.92% - ep37
+1.92% - ep47
+1.87% - ep44
+1.87% - ep8
+1.75% - ep28
+1.64% - ep16
+1.64% - ep22
+1.64% - ep25
+1.58% - ep14
+1.58% - ep18
+1.53% - ep1
+1.53% - ep30
+1.41% - ep11
+1.41% - ep19
+1.30% - ep46
+1.25% - ep29
+1.25% - ep3
+1.25% - ep41
+1.19% - ep13
+1.19% - ep35
+1.19% - ep5
+1.13% - ep33
+
+Megoszlas szabalysertes tipusa szerint:
+69.16% - gyorshajtas
+4.81% - vasuti_atjaro
+9.62% - piros_lampa
+3.62% - leallosav
+4.92% - behajtasi_tilalom
+6.00% - kotelezo_haladas
+1.87% - korlatozott_zona
+
+10 legnagyobb sebessegtullepes:
+ep27 2019-03-30 01:18 AOR663 123 242
+ep31 2019-03-15 05:52 CVQ522 129 248
+ep1 2019-03-04 12:21 HOD568 89 208
+ep42 2019-03-25 05:09 JSK521 83 202
+ep15 2019-03-24 15:37 JUT713 109 228
+ep27 2019-03-19 15:45 LUD531 123 242
+ep16 2019-03-29 19:44 OQZ877 97 216
+ep20 2019-03-04 05:37 PAF476 101 220
+ep42 2019-03-16 03:42 PUF368 83 202
+ep10 2019-03-19 00:41 SCT451 50 169
+
+Visszatero szabalysertok:
+VNF276
