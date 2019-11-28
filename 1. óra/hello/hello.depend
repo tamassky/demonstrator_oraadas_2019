@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549986762 source:c:\users\hallgato\prog1\0212\hello\main.c
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
