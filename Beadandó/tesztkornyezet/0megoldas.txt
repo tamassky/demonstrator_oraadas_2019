@@ -1,0 +1,27 @@
+A honap soran 10 birsag kerult kiszabasra, osszesen 420000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+100.00% - Szekesfehervar M7 bal 60+090 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+100.00% - gyorshajtas
+0.00% - vasuti_atjaro
+0.00% - piros_lampa
+0.00% - leallosav
+0.00% - behajtasi_tilalom
+0.00% - kotelezo_haladas
+0.00% - korlatozott_zona
+
+10 legnagyobb sebessegtullepes:
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-11 14:25 UIU523 130 191
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-02 16:25 ONC541 130 183
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-13 23:56 QCU141 130 181
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-10 12:32 BZB380 130 179
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-30 21:18 YNF409 130 177
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-02 02:36 MPQ832 130 165
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-19 06:30 WHZ498 130 163
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-22 08:08 ZRC655 130 157
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-02 05:07 CVO223 130 154
+Szekesfehervar M7 bal 60+090 kilometerszelveny 2019-03-14 00:12 MRZ667 130 153
+
+Nincs visszatero szabalyserto.

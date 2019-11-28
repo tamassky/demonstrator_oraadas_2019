@@ -1,0 +1,29 @@
+A honap soran 26 birsag kerult kiszabasra, osszesen 1240000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+38.46% - Solymar 10. sz. fout 14+601 kilometerszelveny
+38.46% - Szekesfehervar  M7 bal 60+090 kilometerszelveny
+23.08% - Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+65.38% - gyorshajtas
+3.85% - vasuti_atjaro
+7.69% - piros_lampa
+7.69% - leallosav
+3.85% - behajtasi_tilalom
+7.69% - kotelezo_haladas
+3.85% - korlatozott_zona
+
+10 legnagyobb sebessegtullepes:
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-02 05:07 PVO223PWQA 90 155
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-11 14:25 UIU523 130 191
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-10 12:32 PRZ667 90 144
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-10 12:32 BZB380 130 179
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-30 21:18 B516HFZ 130 177
+Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny 2019-03-17 17:56 SM06SWU 50 89
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-30 21:18 FNC541 90 128
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-14 00:12 DALILEJ5 90 126
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-02 02:36 MUIEPSD 130 165
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-19 06:30 WHZ498 130 163
+
+Nincs visszatero szabalyserto.

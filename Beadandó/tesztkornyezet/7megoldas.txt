@@ -1,0 +1,39 @@
+A honap soran 31 birsag kerult kiszabasra, osszesen 2970000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+32.26% - Solymar 10. sz. fout 14+601 kilometerszelveny
+32.26% - Szekesfehervar  M7 bal 60+090 kilometerszelveny
+22.58% - Balatonkenese 71. sz. fout 10+677 kilometerszelveny
+12.90% - Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny
+0.00% - Cegled 441. sz. fout 4+049 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+87.10% - gyorshajtas
+0.00% - vasuti_atjaro
+6.45% - piros_lampa
+0.00% - leallosav
+3.23% - behajtasi_tilalom
+3.23% - kotelezo_haladas
+0.00% - korlatozott_zona
+
+10 legnagyobb sebessegtullepes:
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-02 05:07 CVO223 130 245
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-22 08:08 ZRC655 90 201
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-02 02:36 MPQ832 90 190
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-11 14:25 UIU523 130 230
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-22 08:08 ZRC655 130 220
+Solymar 10. sz. fout 14+601 kilometerszelveny 2019-03-02 05:07 CVO223 90 170
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-20 09:21 QCU141 50 128
+Szekesfehervar  M7 bal 60+090 kilometerszelveny 2019-03-30 21:18 YNF409 130 200
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-09 12:38 CVO223 50 119
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-17 17:56 BZB380 50 112
+
+Visszatero szabalysertok:
+BZB380
+CVO223
+MPQ832
+MRZ667
+ONC541
+QCU141
+UIU523
+ZRC655

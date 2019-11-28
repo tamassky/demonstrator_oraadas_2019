@@ -1,0 +1,23 @@
+A honap soran 9 birsag kerult kiszabasra, osszesen 430000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+55.56% - Debrecen 33. sz. fout 104+545 kilometerszelveny
+44.44% - Nyiregyhaza M3 jobb 228+775 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+55.56% - gyorshajtas
+0.00% - vasuti_atjaro
+22.22% - piros_lampa
+11.11% - leallosav
+0.00% - behajtasi_tilalom
+11.11% - kotelezo_haladas
+0.00% - korlatozott_zona
+
+5 legnagyobb sebessegtullepes:
+Debrecen 33. sz. fout 104+545 kilometerszelveny 2019-03-18 11:21 PSN548 70 119
+Nyiregyhaza M3 jobb 228+775 kilometerszelveny 2019-03-01 23:27 RSA167 130 162
+Debrecen 33. sz. fout 104+545 kilometerszelveny 2019-03-26 13:08 NDL547 70 97
+Nyiregyhaza M3 jobb 228+775 kilometerszelveny 2019-03-12 05:11 KOX004 130 155
+Debrecen 33. sz. fout 104+545 kilometerszelveny 2019-03-05 16:29 FHP487 70 88
+
+Nincs visszatero szabalyserto.

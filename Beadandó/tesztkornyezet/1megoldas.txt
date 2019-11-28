@@ -1,0 +1,21 @@
+A honap soran 7 birsag kerult kiszabasra, osszesen 300000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+100.00% - Balatonkenese 71. sz. fout 10+677 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+57.14% - gyorshajtas
+28.57% - vasuti_atjaro
+0.00% - piros_lampa
+0.00% - leallosav
+14.29% - behajtasi_tilalom
+0.00% - kotelezo_haladas
+0.00% - korlatozott_zona
+
+4 legnagyobb sebessegtullepes:
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-17 17:56 BZB380 50 89
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-04 22:52 MPQ832 50 74
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-29 12:43 MRZ667 50 69
+Balatonkenese 71. sz. fout 10+677 kilometerszelveny 2019-03-15 17:41 ONC541 50 67
+
+Nincs visszatero szabalyserto.

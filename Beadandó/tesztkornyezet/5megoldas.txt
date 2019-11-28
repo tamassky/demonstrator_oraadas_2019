@@ -1,0 +1,24 @@
+A honap soran 12 birsag kerult kiszabasra, osszesen 525000 forint ertekben.
+
+Megoszlas ellenorzo pontok szerint:
+50.00% - Mateszalka 49. sz. fout 16+736 kilometerszelveny
+50.00% - Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny
+
+Megoszlas szabalysertes tipusa szerint:
+50.00% - gyorshajtas
+16.67% - vasuti_atjaro
+16.67% - piros_lampa
+0.00% - leallosav
+8.33% - behajtasi_tilalom
+8.33% - kotelezo_haladas
+0.00% - korlatozott_zona
+
+6 legnagyobb sebessegtullepes:
+Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny 2019-03-17 17:56 BZB380 50 89
+Mateszalka 49. sz. fout 16+736 kilometerszelveny 2019-03-17 17:56 BZB382 50 80
+Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny 2019-03-04 22:52 MPQ832 50 74
+Mateszalka 49. sz. fout 16+736 kilometerszelveny 2019-03-15 17:41 ONC540 50 70
+Nyiregyhaza 4. sz. fout 276+064 kilometerszelveny 2019-03-15 17:41 ONC541 50 67
+Mateszalka 49. sz. fout 16+736 kilometerszelveny 2019-03-04 22:52 MPQ830 50 65
+
+Nincs visszatero szabalyserto.
