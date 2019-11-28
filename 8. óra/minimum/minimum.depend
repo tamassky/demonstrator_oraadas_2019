@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554132247 source:c:\users\openb\onedrive\Óraadás\8. óra\minimum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

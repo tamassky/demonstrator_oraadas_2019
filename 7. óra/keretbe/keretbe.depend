@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553455999 source:c:\users\openb\onedrive\Óraadás\7. óra\keretbe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

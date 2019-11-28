@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554150074 source:c:\users\openb\onedrive\Óraadás\8. óra\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554146149 source:c:\users\openb\onedrive\Óraadás\8. óra\dronfelv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

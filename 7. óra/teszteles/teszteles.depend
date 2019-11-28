@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553459619 source:c:\users\openb\onedrive\Óraadás\7. óra\teszteles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
