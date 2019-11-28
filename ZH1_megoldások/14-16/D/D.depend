@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554819136 source:c:\users\hallgato\desktop\zh\d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
