@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557842364 source:e:\!prog1_zh\zh2\14-16\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557848076 source:d:\!prog1_zh\zh2\16-18\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
